@@ -13,11 +13,11 @@
 <!-- subscriptions:start -->
 | 客户端 | 订阅地址 |
 | --- | --- |
-| Surge / Egern | [https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/modules/wloc.sgmodule](https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/modules/wloc.sgmodule) |
-| Quantumult X | [https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/modules/wloc.conf](https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/modules/wloc.conf) |
-| Loon | [https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/modules/wloc.lpx](https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/modules/wloc.lpx) |
-| Stash | [https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/modules/wloc.stoverride](https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/modules/wloc.stoverride) |
-| Shadowrocket | [https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/modules/wloc.module](https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/modules/wloc.module) |
+| Surge / Egern | [https://raw.githubusercontent.com/shijianji/wloc-new/refs/heads/main/modules/wloc.sgmodule](https://raw.githubusercontent.com/shijianji/wloc-new/refs/heads/main/modules/wloc.sgmodule) |
+| Quantumult X | [https://raw.githubusercontent.com/shijianji/wloc-new/refs/heads/main/modules/wloc.conf](https://raw.githubusercontent.com/shijianji/wloc-new/refs/heads/main/modules/wloc.conf) |
+| Loon | [https://raw.githubusercontent.com/shijianji/wloc-new/refs/heads/main/modules/wloc.lpx](https://raw.githubusercontent.com/shijianji/wloc-new/refs/heads/main/modules/wloc.lpx) |
+| Stash | [https://raw.githubusercontent.com/shijianji/wloc-new/refs/heads/main/modules/wloc.stoverride](https://raw.githubusercontent.com/shijianji/wloc-new/refs/heads/main/modules/wloc.stoverride) |
+| Shadowrocket | [https://raw.githubusercontent.com/shijianji/wloc-new/refs/heads/main/modules/wloc.module](https://raw.githubusercontent.com/shijianji/wloc-new/refs/heads/main/modules/wloc.module) |
 
 选点页面：[https://wloc.333012.xyz/](https://wloc.333012.xyz/)。
 
