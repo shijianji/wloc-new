@@ -32,7 +32,7 @@ Egern 沿用上游 Surge 模块兼容说明，尚未单独复核。Stash 使用�
 
 | 快捷指令 | 安装入口 | 用途 |
 | --- | --- | --- |
-| wloc 设置地理位置 | [https://www.icloud.com/shortcuts/c87b93fb6ee94207b8d28f60ddeeb931](https://www.icloud.com/shortcuts/c87b93fb6ee94207b8d28f60ddeeb931) | 从地图分享位置，解析坐标并保存到代理客户端 |
+| wloc 设置地理位置 | [https://www.icloud.com/shortcuts/c358351e9ff94da89d69028e3ddf21c8](https://www.icloud.com/shortcuts/c358351e9ff94da89d69028e3ddf21c8) | 从地图分享位置，解析坐标并保存到代理客户端 |
 | wloc 清理恢复位置 | [https://www.icloud.com/shortcuts/cc8ed75b4f3747b1af0795394de77dbe](https://www.icloud.com/shortcuts/cc8ed75b4f3747b1af0795394de77dbe) | 清除已保存的虚拟坐标 |
 
 **使用步骤：**
